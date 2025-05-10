@@ -2,7 +2,7 @@
 |-|-|
 |`Author` | Ionescu Valentin-Gabriel
 
-# 🚦 Mini Feu de Signalisation Intelligent avec Arduino Uno
+# Mini Feu de Signalisation Intelligent avec Arduino Uno
 
 ## Description
 
