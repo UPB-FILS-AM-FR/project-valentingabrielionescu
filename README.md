@@ -1,3 +1,7 @@
+| | |
+|-|-|
+|`Author` | Ionescu Valentin-Gabriel
+
 # 🚦 Mini Feu de Signalisation Intelligent avec Arduino Uno
 
 ## Description
@@ -36,7 +40,7 @@ Ce projet simule un feu de signalisation intelligent à l'aide d'une carte Ardui
 
 | Composant | Utilisation | Prix |
 |--------|--------|-------|
-| Arduino Uno R3 (câble USB inclus) | Microcontrôleur | [54.37](https://www.optimusdigital.ro/ro/placi-avr/4561-placa-de-dezvoltare-compatibila-cu-arduino-uno-r3-atmega328p-atmega16u2-cablu-50-cm.html?search_query=arduino+uno&results=129) |
+| Arduino Uno R3 (câble USB inclus) | Microcontrôleur | [54.37 RON](https://www.optimusdigital.ro/ro/placi-avr/4561-placa-de-dezvoltare-compatibila-cu-arduino-uno-r3-atmega328p-atmega16u2-cablu-50-cm.html?search_query=arduino+uno&results=129) |
 | Bouton 6x6x6 | Bouton pour les piétons | [0.36 RON](https://www.optimusdigital.ro/ro/butoane-i-comutatoare/1119-buton-6x6x6.html?search_query=buton&results=212) |
 | LED rouge 5mm | Feux rouge pour les voitures | [0.39 RON](https://www.optimusdigital.ro/ro/optoelectronice-led-uri/29-led-set-3-culori-x-10-pcs-fiecare.html?search_query=led+rosu&results=166) |
 | LED jaune 5mm | Feux jaune pour les voitures | [0.39 RON](https://www.optimusdigital.ro/ro/optoelectronice-led-uri/37-led-galben.html?search_query=led+galben&results=51) |
