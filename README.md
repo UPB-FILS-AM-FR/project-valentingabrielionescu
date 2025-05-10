@@ -33,7 +33,7 @@ Ce projet simule un feu de signalisation intelligent à l'aide d'une carte Ardui
   - Puis reprend le cycle normal
 
 ### 4. Alimentation
-- L’Arduino est alimenté par **USB**.
+- L’Arduino est alimenté par USB.
 - Il fournit l'alimentation aux LEDs, au bouton, et à l’écran.
 
 ## Composants
