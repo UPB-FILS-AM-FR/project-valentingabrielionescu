@@ -44,7 +44,7 @@ Ce projet simule un feu de signalisation intelligent à l'aide d'une carte Ardui
 | Bouton 6x6x6 | Bouton pour les piétons | [0.36 RON](https://www.optimusdigital.ro/ro/butoane-i-comutatoare/1119-buton-6x6x6.html?search_query=buton&results=212) |
 | LED rouge 5mm | Feux rouge pour les voitures | [0.39 RON](https://www.optimusdigital.ro/ro/optoelectronice-led-uri/29-led-set-3-culori-x-10-pcs-fiecare.html?search_query=led+rosu&results=166) |
 | LED jaune 5mm | Feux jaune pour les voitures | [0.39 RON](https://www.optimusdigital.ro/ro/optoelectronice-led-uri/37-led-galben.html?search_query=led+galben&results=51) |
-| LED vert 5mm | Feux verte pour les voitures et un autre pour les pietons | [0.78 RON (2 x 0.39)](https://www.optimusdigital.ro/ro/optoelectronice-led-uri/38-led-verde.html?search_query=led+verde&results=90) |
+| LED vert 5mm | Feux verte pour les voitures et un autre pour les pietons | [0.78 RON     (2 x 0.39)](https://www.optimusdigital.ro/ro/optoelectronice-led-uri/38-led-verde.html?search_query=led+verde&results=90) |
 | Résistances 220Ω | Résistances pour les LED | [0.40 RON (4 x 0.10)](https://www.optimusdigital.ro/ro/componente-electronice-rezistoare/10958-rezistor-05w-220.html?search_query=rezistor+220&results=22) |
 | Résistance 10KΩ | Résistance pour le bouton | [0.10 RON](https://www.optimusdigital.ro/ro/componente-electronice-rezistoare/1088-rezistor-025w-100k.html?search_query=rezistor+10k&results=13) |
 | Écran LCD 16x2 avec interface I2C | Pour afficher si les piétons peuvent traverser ou pas | [14.99 RON](https://www.optimusdigital.ro/ro/optoelectronice-lcd-uri/62-lcd-1602-cu-interfata-i2c-si-backlight-galben-verde.html?search_query=lcd+i2c&results=17) |
