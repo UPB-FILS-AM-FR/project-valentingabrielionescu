@@ -70,7 +70,8 @@ J'ai acheté toutes les composantes nécessaires sur les sites Sigmanortec et Op
 
 ### Semaine 13 - 19 Mai
 J'ai commencé à monter les composants sur le breadboard et à les connecter à la carte arduino, puis j'ai commencé à travailler sur le code.
-<img src="montage.png">
+
+<img src="montage.png" width="300" height="150">
 
 ### Semaine 20 - 26 Mai
 
