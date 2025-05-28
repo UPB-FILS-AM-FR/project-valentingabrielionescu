@@ -56,22 +56,23 @@ Ce projet simule un feu de signalisation intelligent à l'aide d'une carte Ardui
 
 ![Schéma de câblage](./schema.png)
 
-## Libraries
+## Bibliothèques
 
-| Library | Description | Usage |
+| Bibliothèque | Description | Utilisation |
 |---------|-------------|-------|
 | Wire | Permet la communication I2C | #include <Wire.h> |
 | LiquidCrystal I2C | Utilisée pour contrôler un écran LCD avec interface I2C | #include <LiquidCrystal_I2C.h> |
 
 ## Log
 
-### Week 6 - 12 May
+### Semaine 6 - 12 Mai
 J'ai acheté toutes les composantes nécessaires sur les sites Sigmanortec et Optimus Digital.
 
-### Week 7 - 19 May
-J'ai commencé faire la partie hardware du projet et écrire le code Arduino pour fonctionner.
+### Semaine 13 - 19 Mai
+J'ai commencé à monter les composants sur le breadboard et à les connecter à la carte arduino, puis j'ai commencé à travailler sur le code.
+<img src="montage.png">
 
-### Week 20 - 26 May
+### Semaine 20 - 26 Mai
 
 ## Références
 [Tutoriel YouTube](https://www.youtube.com/watch?v=PYgPImkcu-Q&ab_channel=Asali)
