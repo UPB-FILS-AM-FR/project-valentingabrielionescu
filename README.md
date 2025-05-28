@@ -78,7 +78,7 @@ J'ai terminé l'assemblage et le codage du feu de signalisation et puis j'ai col
 
 <img src="final.png" width="500" height="300">
 
-[Vidéo de démonstration](./demo.mov)
+[Vidéo de démonstration](./demo.mp4)
 
 ## Références
 [Tutoriel YouTube](https://www.youtube.com/watch?v=PYgPImkcu-Q&ab_channel=Asali)
