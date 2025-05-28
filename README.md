@@ -69,11 +69,16 @@ Ce projet simule un feu de signalisation intelligent à l'aide d'une carte Ardui
 J'ai acheté toutes les composantes nécessaires sur les sites Sigmanortec et Optimus Digital.
 
 ### Semaine 13 - 19 Mai
-J'ai commencé à monter les composants sur le breadboard et à les connecter à la carte arduino, puis j'ai commencé à travailler sur le code.
+J'ai commencé à monter les composants sur le breadboard et à les connecter à la carte Arduino, puis j'ai commencé à travailler sur le code.
 
 <img src="montage.png" width="500" height="300">
 
 ### Semaine 20 - 26 Mai
+J'ai terminé l'assemblage et le codage du feu de signalisation et puis j'ai collé le breadboard, la carte Arduino et l'écran LCD sur un support en carton.
+
+<img src="final.png" width="500" height="300">
+
+[Vidéo de démonstration](./demo.mov)
 
 ## Références
 [Tutoriel YouTube](https://www.youtube.com/watch?v=PYgPImkcu-Q&ab_channel=Asali)
